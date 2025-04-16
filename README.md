@@ -1,5 +1,5 @@
-# Whmcs Annual Compare Income
-TBC
+# WHMCS Annual Compare Income
+This report shows the total income received each year, allowing for year-over-year comparison and business planning.
 
 ## Features
 TBC
